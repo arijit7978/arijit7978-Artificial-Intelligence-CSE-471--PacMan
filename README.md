@@ -4,7 +4,7 @@ Arizona State University
 
 CSE 471 Intro To Artificial Intelligence
 
-Fall 2017
+Fall 2019
 
 Grade A
 
